@@ -3,38 +3,38 @@ export default [
     id: "0",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrEM-6gDUO7g1cdrNhBaqk_0nwxy6ILlIqsQ&usqp=CAU",
-    name: "FULL BODY",
+    name: "TOẢN THÂN",
     description: "7x4 CHALLENGE",
     exercises: [
       {
         id: "10",
         image:
           "https://sworkit.com/wp-content/uploads/2020/06/sworkit-jumping-jack.gif",
-        name: "JUMPING JACKS",
+        name: "NHẢY BẬT CÓC",
         sets: 12,
       },
       {
         id: "11",
         image: "https://media.self.com/photos/583c641ca8746f6e65a60c7e/master/w_1600%2Cc_limit/DIAMOND_PUSHUP_MOTIFIED.gif",
-        name: "INCLINED PUSH-UPS",
+        name: "CHỐNG ĐẨY NGHIÊNG",
         sets: 10,
       },
       {
         id: "12",
         image: "https://cdn.prod.openfit.com/uploads/2020/03/10162714/wide-arm-push-up.gif",
-        name: "WIDE ARM PUSH-UPS",
+        name: "CHỐNG ĐẨY TAY RỘNG",
         sets: 12,
       },
       {
         id: "13",
         image: "https://www.yogajournal.com/wp-content/uploads/2021/12/Cobra.gif?width=730",
-        name: "COBRA STRETCH",
+        name: "CO GIÃN RẮN HỔ",
         sets: 10,
       },
       {
         id: "14",
         image: "https://www.vissco.com/wp-content/uploads/animation/sub/double-knee-to-chest-stretch.gif",
-        name: "CHEST STRETCH",
+        name: "KÉO DÃN NGỰC",
         sets: 10,
       }
     ],
@@ -43,7 +43,7 @@ export default [
     id: "1",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRonpSjpGQ2-JD8-XFFD7LYsVSFCOiASj0wSOq1qxNvxGFHe7W6AU1LRAeJ2fOIzYICMGc&usqp=CAU",
-    name: "ABS BEGINNER",
+    name: "BỤNG CƠ BẢN",
     description: "7x4 CHALLENGE",
     exercises: [
       {
@@ -82,7 +82,7 @@ export default [
     id: "2",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1NHvoutGn-Vr_uwVbOOtezhENvx9jhV6pfQ&usqp=CAU",
-    name: "ARM BEGINNER",
+    name: "TAY CƠ BẢN",
     description: "7x4 CHALLENGE",
     exercises: [
       {
@@ -134,7 +134,7 @@ export default [
     id: "3",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCT0tewpNAZ6R9JUoMDHIHGnpE44U2Fl1Zw&usqp=CAU",
-    name: "CHEST BEGINNER",
+    name: "NGỰC CƠ BẢN",
     description: "7x4 CHALLENGE",
     exercises: [
       {
