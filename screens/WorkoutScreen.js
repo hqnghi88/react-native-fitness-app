@@ -54,7 +54,7 @@ const WorkoutScreen = () => {
         navigation.navigate("Fit", { exercises: route.params.exercises }) 
         setCompleted([]);
       }} style={{ backgroundColor: "#198f51", padding: 12, marginHorizontal: 15, marginVertical: 20, borderRadius: 50}}>
-        <Text style={{ textAlign: "center", color: "#fff", fontWeight: "bold", fontSize: 20 }}><MaterialCommunityIcons name="whistle" size={24} color="white" /> START</Text>
+        <Text style={{ textAlign: "center", color: "#fff", fontWeight: "bold", fontSize: 20 }}><MaterialCommunityIcons name="whistle" size={24} color="white" /> BẮT ĐẦU</Text>
       </TouchableOpacity>
     </>
   )
